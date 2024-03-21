@@ -1,16 +1,18 @@
-### Hi there 👋
+# 💫 About Me:
+I am a seasoned Cloud Computing Engineer and DevOps specialist, proficient in architecting and managing complex cloud infrastructures. As an AWS Authorized Instructor and Technical Trainer, I bring extensive experience in deploying and optimizing a wide array of AWS services tailored to diverse business needs.<br><br>My expertise encompasses AWS services such as ECS (Elastic Container Service), EKS (Elastic Kubernetes Service), S3, Amplify, Elastic Beanstalk, RDS (Relational Database Service), ElastiCache, Redshift, and EMR (Elastic MapReduce). I leverage these services alongside industry-standard tools like Docker, Kubernetes, and Helm to orchestrate containerized workloads at scale, ensuring high availability, fault tolerance, and performance optimization.<br><br>In addition to my mastery of AWS services, I am well-versed in infrastructure as code (IaC) principles, utilizing tools like Terraform and AWS CloudFormation to provision and manage cloud resources with efficiency and consistency. My proficiency extends to CI/CD pipelines, where I leverage Jenkins, GitHub Actions, and AWS CodePipeline to automate software delivery processes and accelerate time-to-market.<br><br>Furthermore, I specialize in implementing networking configurations using AWS Transit Gateway, Direct Connect, and VPC peering to establish secure, high-performance connectivity between on-premises and cloud environments. I am also adept at leveraging AWS Lambda, API Gateway, DynamoDB, and event-driven architectures to build serverless applications, optimizing cost and resource utilization while maximizing scalability and responsiveness.<br><br>With a deep understanding of cloud-native architectures and best practices, I excel in designing resilient, cost-effective solutions that meet the demands of modern businesses. By staying abreast of the latest trends and advancements in cloud technology, I ensure that my clients and teams benefit from cutting-edge solutions that drive innovation and business growth.
 
-<!--
-**destleon/destleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Joseph Tetteh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Joseph Tetteh) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=destleon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=destleon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=destleon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=destleon&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
